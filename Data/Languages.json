@@ -1,0 +1,107 @@
+{
+    "en": {
+        "translator": "elysixm#6032",
+        "name": "English",
+        "terms": {
+            "Hello": "Hello",
+            "Input": "Input",
+            "Output": "Output",
+            "General": "General",
+            "Gaming": "Gaming",
+            "Music": " Music",
+            "Miscellaneous": "Miscellaneous",
+            "Moderation": "Moderation",
+            "Settings": "Settings",
+            "Sorry, you can not use this command!": "Sorry, you can not use this command!",
+            "Sorry": "Sorry",
+            "I could not run command": "I could not run command",
+            "Mentions": "Mentions",
+            "Enabled": "Enabled",
+            "Disabled": "Disabled"
+        }
+    },
+    "de": {
+        "translator": "ToxicToxsid#9200",
+        "name": "German",
+        "terms": {
+            "Hello": "Hallo",
+            "Input": "Eingabe",
+            "Output": "Ausgabe",
+            "General": "",
+            "Gaming": "",
+            "Music": " ",
+            "Miscellaneous": "",
+            "Moderation": "",
+            "Settings": "",
+            "Sorry, you can not use this command!": "",
+            "Sorry": "",
+            "I could not run command": "",
+            "Mentions": "Erwähnungen",
+            "Enabled": "Aktiviert",
+            "Disabled": "Deaktivert"
+        }
+    },
+    "fr": {
+        "translator": "sketchy#0001",
+        "name": "French",
+        "terms": {
+            "Hello": "Bonjour",
+            "Input": "Données",
+            "Output": "Sortie",
+            "General": "General",
+            "Gaming": "Jeux",
+            "Music": "Musique",
+            "Miscellaneous":"Divers",
+            "Moderation": "Moderation",
+            "Settings": "Reglages",
+            "Sorry, you can not use this command!": "Désolé! vous ne pouvez pas utiliser cette commande!",
+            "Sorry": "Désolé",
+            "I could not run command": "Je ne pouvais pas exécuter la commande",
+            "Mentions": "Mentions",
+            "Enabled": "Activé",
+            "Disabled": "Desactivé"
+        }
+    },
+    "it": { 
+        "translator": "LaxionDev#3069",
+        "name": "Italian",
+        "terms": {
+            "Hello": "",
+            "Input": "",
+            "Output": "",
+            "General": "",
+            "Gaming": "",
+            "Music": " ",
+            "Miscellaneous": "",
+            "Moderation": "",
+            "Settings": "",
+            "Sorry, you can not use this command!": "",
+            "Sorry": "",
+            "I could not run command": "",
+            "Mentions": "",
+            "Enabled": "",
+            "Disabled": ""
+        }
+    },
+    "po": {
+        "translator": "SoullessFoxx#4004",
+        "name": "Polish",
+        "terms": {
+            "Hello": "Halo",
+            "Input": "",
+            "Output": "",
+            "General": "Generał",
+            "Gaming": "",
+            "Music": "",
+            "Miscellaneous":"",
+            "Moderation": "",
+            "Settings": "Ustawienia",
+            "Sorry, you can not use this command!": "Przepraszam, ",
+            "Sorry": "Przepraszam",
+            "I could not run command": "",
+            "Mentions": "",
+            "Enabled": "",
+            "Disabled": ""
+        }
+    }
+}
