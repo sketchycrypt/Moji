@@ -11,8 +11,6 @@ const guilds = JSON.parse(fs.readFileSync('./Data/Guilds.json', 'utf8'));
 
 const languages = JSON.parse(fs.readFileSync('./Data/Languages.json', 'utf8'));
 
-const nomention = JSON.parse(fs.readFileSync('./Data/NoMention.json', 'utf8'));
-
 //-- JSON Writer --\\
 function write(type) {
     if(type === 1) { //- User Data
